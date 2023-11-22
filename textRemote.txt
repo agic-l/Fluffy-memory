@@ -1,1 +1,3 @@
 Tekstualni file kreiran remote
+ovo je novi dio teksta 
+
